@@ -6,7 +6,7 @@ Awesome syntax highlighting for your JavaScript
 
 Git
 
-    $ git clone https://github.com/goatslacker/mango.vim && make
+    $ git clone https://github.com/goatslacker/mango.vim && cd mango.vim && make
 
 Download from vim.org
 
